@@ -30,11 +30,14 @@ This project is a Python-based automation tool for sending personalized emails i
 ```bash
 git clone https://github.com/Suraj2429/bulk-email-automation-python.git
 cd bulk-email-automation-python
+```
 
 
 ### 2. Install Dependencies
 ``` bash
 pip install pandas
+```
+
 
 ### 3. Enable Gmail App Password
 -Go to: https://myaccount.google.com/apppasswords
@@ -50,3 +53,4 @@ APP_PASSWORD = "your_app_password"
 ### 5. Run Script
 ```bash
 python send_emails.py
+```
